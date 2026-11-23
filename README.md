@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a Computer Science and Engineering student at
 | CSS | Learning |
 | JavaScript | Learning |
 | AI & ML | Learning |
-| Data Structures & Algorithms | Practicing |
+| Data Structures & Algorithms | Beginner |
 | Git & GitHub | Learning |
 
 ## Academic Projects
