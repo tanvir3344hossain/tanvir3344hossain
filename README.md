@@ -1,18 +1,68 @@
-## Hi there 👋
-- 🔭 I’m currently working on improving my programming skills and building projects.
-- 🌱 I’m currently learning Web Development AI/ML, and Data Structures & Algorithms.
-- 👯 I’m looking to collaborate on  Web Development and beginner-friendly open-source projects.
-- 🤔 I’m looking for help with AI/ML and advanced problem-solving.
-- 💬 Ask me about C++, Java, Programming, and Problem Solving.
-- 📫 How to reach me: 251-15-203@diu.edu.bd
-- 😄 Pronouns: He
-- ⚡ Fun fact: I love learning new technologies and solving coding challenges!
+# Tanvir Hossain
 
-- 👋 About Me
+**Computer Science and Engineering Student | Daffodil International University**
 
-I'm Tanvir Hossain, a Computer Science & Engineering student at Daffodil International University (DIU), Bangladesh.
+Welcome to my GitHub profile! I am a Computer Science and Engineering student at Daffodil International University, Bangladesh. I am passionate about programming, problem-solving, and software development. I enjoy learning new technologies and improving my skills through practical projects and coding challenges.
 
-I'm passionate about software development, competitive programming, and exploring emerging technologies.
+## About Me
+
+- 🎓 Studying Computer Science and Engineering at Daffodil International University.
+- 💻 Interested in Software Development, Programming, and Problem Solving.
+- 🚀 Practicing Data Structures and Algorithms.
+- 🏆 Actively solving programming problems on Codeforces.
+- 🌐 Currently learning Web Development.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🌱 Continuously improving my technical skills through learning and projects.
+- 🎯 Aspiring to become a skilled Software Engineer.
+
+## Technical Skills
+
+| Technology | Proficiency |
+|---|---|
+| C++ | Practicing |
+| Java | Academic Project Experience |
+| HTML | Learning |
+| CSS | Learning |
+| JavaScript | Learning |
+| AI & ML | Beginner / Learning |
+| Data Structures & Algorithms | Practicing |
+| Git & GitHub | Learning |
+
+## Academic Projects
+
+**1. Hotel Management System**
+- Academic software development project.
+- Technology: Java.
+
+**2. Employee Management System**
+- Academic software development project.
+- Focus: Employee information and management.
+
+## Competitive Programming
+
+- 🏆 **Codeforces:** [My Codeforces Profile](https://codeforces.com/profile/Tanvir_51)
+- 💻 Practicing Data Structures and Algorithms.
+- 🧠 Solving programming problems to improve logical thinking.
+- 🚀 Continuously improving problem-solving skills.
+
+## Currently Learning
+
+- Web Development (HTML, CSS, JavaScript)
+- Data Structures and Algorithms
+- Artificial Intelligence and Machine Learning
+- Object-Oriented Programming
+- Software Development Fundamentals
+
+## Connect With Me
+
+- **Email:** tanvir3344hossain@gmail.com
+- **LinkedIn:** [Tanvir Hossain](https://www.linkedin.com/in/tanvir-hossain-714341366/)
+- **GitHub:** [@tanvir3344hossain](https://github.com/tanvir3344hossain)
+- **Codeforces:** [My Profile](https://codeforces.com/profile/YOUR_HANDLE)
+
+---
+
+*Always learning, building, and improving. One step closer to becoming a Software Engineer.* 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanvir2448) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvir-hossain-714341366) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tanvir3344hoss) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tanvir Hossain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:251-15-203@diu.edu.bd) 
