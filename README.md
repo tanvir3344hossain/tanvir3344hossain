@@ -19,12 +19,12 @@ Welcome to my GitHub profile! I am a Computer Science and Engineering student at
 
 | Technology | Proficiency |
 |---|---|
-| C++ | Practicing |
+| C++ | Intermediate|
 | Java | Academic Project Experience |
-| HTML | Learning |
+| HTML | Intermediate|
 | CSS | Learning |
 | JavaScript | Learning |
-| AI & ML | Beginner / Learning |
+| AI & ML | Learning |
 | Data Structures & Algorithms | Practicing |
 | Git & GitHub | Learning |
 
